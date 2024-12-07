@@ -8,5 +8,7 @@ Use b-mc2/sql-create-context dataset as an example.
 
 
 LORA RANK=1 could be tried
+https://www.youtube.com/watch?v=t1caDsMzWBk
+
 ![image](https://github.com/user-attachments/assets/d1d65efa-d73a-40c1-bc60-3d68da91af7f)
 
